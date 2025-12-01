@@ -1,0 +1,14 @@
+[
+    {
+        "id": null,
+        "Nome": "Morango",
+        "Preco": "10",
+        "Categoria": "Frutas"
+    },
+    {
+        "id": 3,
+        "Nome": "Melancia",
+        "Preco": "12",
+        "Categoria": "Frutas"
+    }
+]
